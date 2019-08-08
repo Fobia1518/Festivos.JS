@@ -21,7 +21,7 @@ var can = 0 ;
 ### Funciones
 
 ```
-function calcularFestivos(){}
+function calcularFestivos(){};
 function calcula_emiliani(mes_festivo,dia_festivo){}
 function otrasFechasCalculadas(cantidadDias,pascua_mes,pascua_dia){}
 function semanaSanta(cantidadDias,pascua_mes,pascua_dia){}
